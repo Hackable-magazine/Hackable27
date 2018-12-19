@@ -1,4 +1,4 @@
-Sources et fichiers pour le magazine Hackable #26
+Sources et fichiers pour le magazine Hackable #27
 =================================================
 
 Ce dépôt contient les croquis, sources et fichiers utilisés dans le 27ème numéro de [Hackable](http://www.hackable.fr/) :
